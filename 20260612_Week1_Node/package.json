@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-camp-week1",
+  "version": "1.0.0",
+  "description": "Node.js 後端 10 週班 Week 1 作業：健身房資料處理工具",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest --runInBand"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
